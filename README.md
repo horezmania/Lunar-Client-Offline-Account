@@ -7,7 +7,7 @@ All features are available, except cosmetic ones.
 Download files from the release.
 
 ### Instructions
-Disable the lunar client— it's running in the background. Make sure you've disabled it everywhere.
+Disable the lunar client— it's running in the background. Make sure you've disabled it everywhere.<br />
 write:
 ```bash
 cd the\path\to\the\script
@@ -16,7 +16,7 @@ then write:
 ```bash 
 python offline_mode.py
 ```
-you ran my script, enter your nickname and skin.
+# you ran offline mod, enter your nickname and skin.
 Done, the game is ready to launch.
 
 

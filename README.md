@@ -12,11 +12,11 @@ write:
 ```bash
 cd the\path\to\the\script
 ```
-then write
+then write:
 ```bash 
 python offline_mode.py
 ```
-Run my script, enter your nickname and skin.
+you ran my script, enter your nickname and skin.
 Done, the game is ready to launch.
 
 

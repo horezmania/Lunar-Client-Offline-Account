@@ -11,11 +11,11 @@ Disable the lunar client— it's running in the background. Make sure you've dis
 write:
 ```bash
 cd the\path\to\the\script
-
+```
 then write
-```bash
+```bash 
 python offline_mode.py
-
+```
 Run my script, enter your nickname and skin.
 Done, the game is ready to launch.
 
